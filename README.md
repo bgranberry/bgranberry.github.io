@@ -1,2 +1,2 @@
-bgranberry22.github.io
+bgranberry.github.io
 ======================
